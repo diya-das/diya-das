@@ -8,11 +8,10 @@ I am a **B.Tech student at IIIT Nagpur** with a passion for building interactive
 - **Technical Interests:** Deeply interested in Analog VLSI and Microprocessors.
 - **Looking to collaborate on:** Open-source projects involving Computer Vision or ECE-focused educational tools.
 
----
+
 
 ## 💻 Tech Stack:
 
----
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
